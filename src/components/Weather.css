@@ -1,0 +1,68 @@
+.mist-bg {
+    background-image: url('/public/bg/mist.jpg');
+    background-size: cover;
+    background-position: center center;
+    transition: background-img 1.3s ease-in-out;
+}
+
+.sunny-bg {
+    background-image: url('/public/bg/sunny.jpg');
+    background-size: cover;
+    background-position: center center;
+    transition: background-img 1.3s ease-in-out;
+}
+
+.cloudy-bg {
+    background-image: url('/public/bg/cloudy.jpg');
+    background-size: cover;
+    background-position: center center;
+    transition: background-img 1.3s ease-in-out;
+}
+
+.partly-cloudy-bg {
+    background-image: url('/public/bg/partly-cloudy.jpg');
+    background-size: cover;
+    background-position: center center;
+    transition: background-img 1.3s ease-in-out;
+} 
+
+.rain-bg{
+    background-image: url('/public/bg/rain.jpg');
+    background-size: cover;
+    background-position: center center;
+    transition: background-img 1.3s ease-in-out;
+} 
+
+.windy-bg {
+    background-image: url('/public/bg/windy.jpg');
+    background-size: cover;
+    background-position: center center;
+    transition: background-img 1.3s ease-in-out;
+}
+
+.light-rain-bg {
+    background-image: url('/public/bg/light-rain.jpg');
+    background-size: cover;
+    background-position: center center;
+    transition: background-img 1.3s ease-in-out;
+} 
+
+.clear-bg {
+    background-image: url('/public/bg/clear.jpg');
+    background-size: cover;
+    background-position: center center;
+    transition: background-img 1.3s ease-in-out;
+}
+.thunderstorm-bg {
+    background-image: url('/public/bg/thunderstorm.jpg');
+    background-size: cover;
+    background-position: center center;
+    transition: background-img 1.3s ease-in-out;
+}
+
+.default-bg {
+    background-image: url('/public/bg/default.jpg');
+    background-size: cover;
+    background-position: center center;
+    transition: background-img 1.3s ease-in-out;
+}
